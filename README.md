@@ -4,6 +4,8 @@
 
 A simple page to ask how you're feeling.
 
+https://user-images.githubusercontent.com/50751082/136691173-5ed199a8-a0a8-47c7-8253-aa044038ae0f.mp4
+
 ## dependencies
 
 This project requires the latest LTS version of [Node.js](https://nodejs.org/)
